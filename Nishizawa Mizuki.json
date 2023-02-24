@@ -1,17 +1,17 @@
-{
-  "title": "Cheerful Family Living",
-  "description": "<manga description>",
-  "artist": "Nishizawa Mizuki",
-  "author": "Nishizawa Mizuki",
-  "cover": "https://imgur.com/8k06cp6",
-  "chapters": {
-    "1": {
-      "title": "Sister Ichika Arc",
-      "volume": "1",
-      "groups": {
-        "Imgur": "/proxy/api/imgur/chapter/NLSKAiv/"
-      },
-      "last_updated": "1616368746"
+{    
+    "title": "Cheerful Family Living",
+    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
+    "author": "Nishizawa Mizuki",
+    "artist": "Nishizawa Mizuki",
+    "cover": "https://i.imgur.com/8k06cp6t.png",
+    "chapters": {
+        "0": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+            },
+            "last_updated": 1624606143,
+            "title": "Intro",
+            "volume": "1"
+        }
     }
-  }
 }
