@@ -1,5 +1,5 @@
 {
-   "title":"Cheerful Family Living",
+   "title":"Nishizawa Mizuki",
    "description":"",
    "author":"Nishizawa Mizuki",
    "artist":"Nishizawa Mizuki",
@@ -10,7 +10,7 @@
             "Imgur":"/proxy/api/imgur/chapter/NLSKAiv"
          },
          "last_updated":1624606143,
-         "title":"Sister Ichika Arc",
+         "title":"Cheerful Family Living - Sister Ichika Arc",
          "volume":"1"
       },
       "2":{
@@ -18,7 +18,7 @@
             "Imgur":"/proxy/api/imgur/chapter/ioXBYUE"
          },
          "last_updated":1624606143,
-         "title":"Mama Fumie Arc",
+         "title":"Cheerful Family Living - Mama Fumie Arc",
          "volume":"2"
       },
       "3":{
@@ -26,8 +26,16 @@
             "Imgur":"/proxy/api/imgur/chapter/gtE5InD"
          },
          "last_updated":1624606143,
-         "title":"I, Kazuma Arc",
+         "title":"Cheerful Family Living - I, Kazuma Arc",
          "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Pw7Oref"
+         },
+         "last_updated":1624606143,
+         "title":"Can’t Tell Anyone",
+         "volume":"4"
       }
    }
 }
