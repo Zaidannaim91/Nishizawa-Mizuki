@@ -12,6 +12,14 @@
         "last_updated": 1624606143,
         "title": "Sister Ichika Arc",
         "volume": "1"
-        }
-    }
+    },
+    "2": {
+        "groups": {
+            "Imgur": "/proxy/api/imgur/chapter/ioXBYUE"
+        },
+        "last_updated": 1624606143,
+        "title": "Sample chapter 2",
+        "volume": "1"
+    },
+  }
 }
