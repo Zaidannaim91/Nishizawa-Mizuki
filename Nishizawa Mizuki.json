@@ -1,17 +1,24 @@
 {    
     "title": "Cheerful Family Living",
-    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
+    "description": "",
     "author": "Nishizawa Mizuki",
     "artist": "Nishizawa Mizuki",
     "cover": "https://i.imgur.com/8k06cp6t.png",
     "chapters": {
-        "0": {
+        "1": {
             "groups": {
                 "Imgur": "/proxy/api/imgur/chapter/NLSKAiv"
             },
             "last_updated": 1624606143,
-            "title": "Intro",
+            "title": "Sister Ichika Arc",
             "volume": "1"
-        }
+         },
+    "2": {
+        "groups": {
+            "Imgur": "/proxy/api/imgur/chapter/ioXBYUE"
+        },
+        "last_updated": 1624606143,
+        "title": "Mama Fumie Arc",
+        "volume": "2"
     }
 }
