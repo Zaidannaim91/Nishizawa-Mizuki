@@ -5,20 +5,20 @@
     "artist": "Nishizawa Mizuki",
     "cover": "https://i.imgur.com/8k06cp6t.png",
     "chapters": {
-        "1": {
-            "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/NLSKAiv"
-            },
-            "last_updated": 1624606143,
-            "title": "Sister Ichika Arc",
-            "volume": "1"
-         },
+    "1": {
+        "groups": {
+            "Imgur": "/proxy/api/imgur/chapter/NLSKAiv"
+        },
+        "last_updated": 1624606143,
+        "title": "Sister Ichika Arc",
+        "volume": "1"
+    },
     "2": {
         "groups": {
             "Imgur": "/proxy/api/imgur/chapter/ioXBYUE"
         },
         "last_updated": 1624606143,
         "title": "Mama Fumie Arc",
-        "volume": "2"
+        "volume": "1"
     }
 }
