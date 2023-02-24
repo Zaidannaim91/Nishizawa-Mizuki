@@ -1,15 +1,15 @@
 {
-  "title": "<Cheerful Family Living>",
+  "title": "Cheerful Family Living",
   "description": "<manga description>",
-  "artist": "<Nishizawa Mizuki>",
-  "author": "<Nishizawa Mizuki>",
-  "cover": "<https://imgur.com/8k06cp6>",
+  "artist": "Nishizawa Mizuki",
+  "author": "Nishizawa Mizuki",
+  "cover": "https://imgur.com/8k06cp6",
   "chapters": {
-    "<chapter number>": {
-      "title": "<Sister Ichika Arc>",
-      "volume": "<1>",
+    "1": {
+      "title": "Sister Ichika Arc",
+      "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<NLSKAiv>/"
+        "Imgur": "/proxy/api/imgur/chapter/NLSKAiv/"
       },
       "last_updated": "1616368746"
     }
