@@ -18,8 +18,16 @@
             "Imgur": "/proxy/api/imgur/chapter/ioXBYUE"
         },
         "last_updated": 1624606143,
-        "title": "Sample chapter 2",
-        "volume": "1"
+        "title": "Mama Fumie Arc",
+        "volume": "2"
+    },
+    "3": {
+        "groups": {
+            "Imgur": "/proxy/api/imgur/chapter/gtE5InD"
+        },
+        "last_updated": 1624606143,
+        "title": "I, Kazuma Arc",
+        "volume": "3"
         }
     }
 }
