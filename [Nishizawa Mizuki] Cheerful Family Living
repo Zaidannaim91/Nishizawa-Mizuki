@@ -1,0 +1,33 @@
+{
+   "title":"Nishizawa Mizuki - Cheerful Family Living",
+   "description":"",
+   "author":"Nishizawa Mizuki",
+   "artist":"Nishizawa Mizuki",
+   "cover":"https://i.imgur.com/8k06cp6h.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NLSKAiv"
+         },
+         "last_updated":1624606143,
+         "title":"Cheerful Family Living - Sister Ichika Arc",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ioXBYUE"
+         },
+         "last_updated":1624606143,
+         "title":"Cheerful Family Living - Mama Fumie Arc",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/gtE5InD"
+         },
+         "last_updated":1624606143,
+         "title":"Cheerful Family Living - I, Kazuma Arc",
+         "volume":"3"
+      }
+   }
+}
