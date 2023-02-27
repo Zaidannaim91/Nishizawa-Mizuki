@@ -1,0 +1,25 @@
+{
+   "title":"[Nishizawa Mizuki] - Just One Bite",
+   "description":"",
+   "author":"Nishizawa Mizuki",
+   "artist":"Nishizawa Mizuki",
+   "cover":"https://i.imgur.com/yYG6B6d.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/vwKCjx2"
+         },
+         "last_updated":1624606143,
+         "title":"Just One Bite",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ppgCuu9"
+         },
+         "last_updated":1624606143,
+         "title":"Just One More Bite",
+         "volume":"2"
+      }
+   }
+}
